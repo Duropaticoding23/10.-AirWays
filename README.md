@@ -55,5 +55,5 @@ Feel free to contribute to the project by reporting issues or submitting pull re
 # License
 This project is released under the MIT License.
 
-#Author
-Duropatirathi Feel free to customize it as per your needs! Email:duropatirathi21@gmail.com
+#Author 
+DuropatiRathi Feel free to ask any query. Email:duropatirathi21@gmail.com
