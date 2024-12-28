@@ -26,7 +26,7 @@ Feel free to contribute to the game by reporting issues or submitting pull reque
 # License
 This game is released under the MIT License
 
-# Project 1:Simple Calculator
+# Project 2:Simple Calculator
 
 A basic calculator implemented in Python.
 
